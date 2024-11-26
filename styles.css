@@ -12,11 +12,12 @@ header {
 }
 
 section {
-    background: rgb(255, 84, 84);
+    background: rgb(209, 150, 100);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    color:black;
 }
 
 .chamada-texto {
